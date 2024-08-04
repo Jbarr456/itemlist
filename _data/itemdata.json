@@ -13960,7 +13960,7 @@
     "KarmaType": null
   },
   "ARR_Mistletoe": {
-    "CustomName": null,
+    "CustomName": "matronsmistletoe",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -15480,7 +15480,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Arcanist_Basic": {
-    "CustomName": null,
+    "CustomName": "arcanistsgrimoire",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15540,7 +15540,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Conjurer_Basic": {
-    "CustomName": null,
+    "CustomName": "conjurerscane",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15580,7 +15580,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Thaumaturge_Basic": {
-    "CustomName": null,
+    "CustomName": "thaumaturgesstaff",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15620,7 +15620,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Archer_Basic": {
-    "CustomName": null,
+    "CustomName": "archersbow",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15660,7 +15660,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_DarkKnight_Basic": {
-    "CustomName": null,
+    "CustomName": "darkknightsclaymore",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -15700,7 +15700,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Gladiator_Basic": {
-    "CustomName": null,
+    "CustomName": "gladiatorsbastardsword",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -15740,7 +15740,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Lancer_Basic": {
-    "CustomName": null,
+    "CustomName": "lancersspear",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -15780,7 +15780,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Machinist_Basic": {
-    "CustomName": null,
+    "CustomName": "machinistspistol",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15820,7 +15820,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Marauder_Basic": {
-    "CustomName": null,
+    "CustomName": "maraudersaxe",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -15860,7 +15860,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Pugilist_Basic": {
-    "CustomName": null,
+    "CustomName": "pugilistsknuckles",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -15900,7 +15900,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Rogue_Basic": {
-    "CustomName": null,
+    "CustomName": "roguesdaggers",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -16700,7 +16700,7 @@
     "KarmaType": null
   },
   "ARR_ApparelMiqoteTopMale": {
-    "CustomName": null,
+    "CustomName": "miqotevest",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16720,7 +16720,7 @@
     "KarmaType": null
   },
   "ARR_ApparelMiqoteBottomMale": {
-    "CustomName": null,
+    "CustomName": "miqotezouaves",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16740,7 +16740,7 @@
     "KarmaType": null
   },
   "ARR_ApparelMiqoteTopFemale": {
-    "CustomName": null,
+    "CustomName": "miqoteseparates",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16760,7 +16760,7 @@
     "KarmaType": null
   },
   "ARR_ApparelMiqoteBottomFemale": {
-    "CustomName": null,
+    "CustomName": "miqoteloincloth",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -17300,7 +17300,7 @@
     "KarmaType": null
   },
   "BS_SkrymirHammer_Persona": {
-    "CustomName": null,
+    "CustomName": "personaskrymirsmallet",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -17760,7 +17760,7 @@
     "KarmaType": null
   },
   "BS_SkrymirHammer": {
-    "CustomName": null,
+    "CustomName": "skrymirsmallet",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -18960,7 +18960,7 @@
     "KarmaType": null
   },
   "SlayersCollar": {
-    "CustomName": null,
+    "CustomName": "slayerscollar",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20760,7 +20760,7 @@
     "KarmaType": null
   },
   "Melee_MBNW_SwordBlues": {
-    "CustomName": null,
+    "CustomName": "protomanssword",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -21080,7 +21080,7 @@
     "KarmaType": null
   },
   "Gun_MBNW_HellBurner": {
-    "CustomName": null,
+    "CustomName": "bnhellsburner",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -26940,7 +26940,7 @@
     "KarmaType": null
   },
   "guy762_MalakTunic": {
-    "CustomName": null,
+    "CustomName": "darthmalaksarmoredtunic",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -26960,7 +26960,7 @@
     "KarmaType": null
   },
   "guy762_MalakCape": {
-    "CustomName": null,
+    "CustomName": "darthmalaksarmoredcape",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27000,7 +27000,7 @@
     "KarmaType": null
   },
   "guy762_RevanRobes": {
-    "CustomName": null,
+    "CustomName": "darthrevansarmor",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27020,7 +27020,7 @@
     "KarmaType": null
   },
   "guy762_RevanMask": {
-    "CustomName": null,
+    "CustomName": "darthrevansmask",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27040,7 +27040,7 @@
     "KarmaType": null
   },
   "guy762_RevanCloak": {
-    "CustomName": null,
+    "CustomName": "darthrevanscloak",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27060,7 +27060,7 @@
     "KarmaType": null
   },
   "guy762_NihilusRobes": {
-    "CustomName": null,
+    "CustomName": "darthnihilusrobes",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27080,7 +27080,7 @@
     "KarmaType": null
   },
   "guy762_NihilusMask": {
-    "CustomName": null,
+    "CustomName": "darthnihilusmask",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27100,7 +27100,7 @@
     "KarmaType": null
   },
   "guy762_NihilusCloak": {
-    "CustomName": null,
+    "CustomName": "darthnihiluscloak",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27180,7 +27180,7 @@
     "KarmaType": null
   },
   "guy762_SionTunic": {
-    "CustomName": null,
+    "CustomName": "darthsionsarmor",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29000,7 +29000,7 @@
     "KarmaType": null
   },
   "guy762_VisasHood": {
-    "CustomName": null,
+    "CustomName": "visashood",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29020,7 +29020,7 @@
     "KarmaType": null
   },
   "guy762_VisasRobes": {
-    "CustomName": null,
+    "CustomName": "visasrobes",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29040,7 +29040,7 @@
     "KarmaType": null
   },
   "guy762_JoleeTunic": {
-    "CustomName": null,
+    "CustomName": "joleestunic",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29060,7 +29060,7 @@
     "KarmaType": null
   },
   "guy762_BastilaTunic": {
-    "CustomName": null,
+    "CustomName": "bastilastunic",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29080,7 +29080,7 @@
     "KarmaType": null
   },
   "guy762_JuhaniTunic": {
-    "CustomName": null,
+    "CustomName": "juhanistunic",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29260,7 +29260,7 @@
     "KarmaType": null
   },
   "guy762_belt_calrissian": {
-    "CustomName": null,
+    "CustomName": "calrissiansutilitybelt",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -33580,7 +33580,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_revansaber": {
-    "CustomName": null,
+    "CustomName": "revanslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33600,7 +33600,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_malaksaber": {
-    "CustomName": null,
+    "CustomName": "darthmalakslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33620,7 +33620,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_nihilussaber": {
-    "CustomName": null,
+    "CustomName": "darthnihilusslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33640,7 +33640,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_sionsaber": {
-    "CustomName": null,
+    "CustomName": "darthsionslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33660,7 +33660,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_exilesaber": {
-    "CustomName": null,
+    "CustomName": "meetrasurikslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33760,7 +33760,7 @@
     "KarmaType": null
   },
   "guy762_bowcaster_zaalbar": {
-    "CustomName": null,
+    "CustomName": "zaalbarsbowcaster",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -33900,7 +33900,7 @@
     "KarmaType": null
   },
   "guy762_carbine_hogra": {
-    "CustomName": null,
+    "CustomName": "jamohhograscarbine",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -33920,7 +33920,7 @@
     "KarmaType": null
   },
   "guy762_carbine_kalta": {
-    "CustomName": null,
+    "CustomName": "jurgankaltascarbine",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -34140,7 +34140,7 @@
     "KarmaType": null
   },
   "guy762_disrifle_droid": {
-    "CustomName": null,
+    "CustomName": "hk-47sassassinrifle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -34380,7 +34380,7 @@
     "KarmaType": null
   },
   "guy762_hvypistol_cassus": {
-    "CustomName": null,
+    "CustomName": "cassusfettsheavypistol",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -34400,7 +34400,7 @@
     "KarmaType": null
   },
   "guy762_hvypistol_nadd": {
-    "CustomName": null,
+    "CustomName": "freedonnaddsblaster",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -34500,7 +34500,7 @@
     "KarmaType": null
   },
   "guy762_hvyrepeater_ordo": {
-    "CustomName": null,
+    "CustomName": "ordosrepeatingblaster",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -34820,7 +34820,7 @@
     "KarmaType": null
   },
   "guy762_lgtrepeater_mandalore": {
-    "CustomName": null,
+    "CustomName": "mandaloresassaultrifle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -35260,7 +35260,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_exarsaber": {
-    "CustomName": null,
+    "CustomName": "exarkunsdouble-bladedlightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35420,7 +35420,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_naddsaber": {
-    "CustomName": null,
+    "CustomName": "freedonnaddsshortlightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35680,7 +35680,7 @@
     "KarmaType": null
   },
   "guy762_microrepeater_mira": {
-    "CustomName": null,
+    "CustomName": "mirasholdoutrepeater",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -35880,7 +35880,7 @@
     "KarmaType": null
   },
   "guy762_bpistol_bendak": {
-    "CustomName": null,
+    "CustomName": "bendakblaster",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -36060,7 +36060,7 @@
     "KarmaType": null
   },
   "guy762_brifle_rohlan": {
-    "CustomName": null,
+    "CustomName": "mandalorianveteransrifle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -36080,7 +36080,7 @@
     "KarmaType": null
   },
   "guy762_brifle_jurgan": {
-    "CustomName": null,
+    "CustomName": "jurgankaltasassaultrifle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -36660,7 +36660,7 @@
     "KarmaType": null
   },
   "guy762_vaxe_hutt": {
-    "CustomName": null,
+    "CustomName": "kajidicsoldiersaxe",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -36780,7 +36780,7 @@
     "KarmaType": null
   },
   "guy762_vblade_tehkla": {
-    "CustomName": null,
+    "CustomName": "tehklablade",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -36800,7 +36800,7 @@
     "KarmaType": null
   },
   "guy762_vblade_vao": {
-    "CustomName": null,
+    "CustomName": "missionsvibroblade",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -36820,7 +36820,7 @@
     "KarmaType": null
   },
   "guy762_vblade_sanasiki": {
-    "CustomName": null,
+    "CustomName": "sanasikisblade",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -36920,7 +36920,7 @@
     "KarmaType": null
   },
   "guy762_vdubblade_yusanis": {
-    "CustomName": null,
+    "CustomName": "yusanisbrand",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -37120,7 +37120,7 @@
     "KarmaType": null
   },
   "guy762_vsword_bacca": {
-    "CustomName": null,
+    "CustomName": "baccasceremonialblade",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -42220,7 +42220,7 @@
     "KarmaType": null
   },
   "Meat_ARR_MiqoteSeeker": {
-    "CustomName": null,
+    "CustomName": "miqotemeat",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42680,7 +42680,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_teethree": {
-    "CustomName": null,
+    "CustomName": "techprint(t3-m4sequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42700,7 +42700,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_hkequipment": {
-    "CustomName": null,
+    "CustomName": "techprint(hk-47sequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42720,7 +42720,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_revan": {
-    "CustomName": null,
+    "CustomName": "techprint(revansequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42740,7 +42740,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_malak": {
-    "CustomName": null,
+    "CustomName": "techprint(malaksequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42760,7 +42760,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_sion": {
-    "CustomName": null,
+    "CustomName": "techprint(sionsequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42780,7 +42780,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_nihilus": {
-    "CustomName": null,
+    "CustomName": "techprint(nihilusequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42800,7 +42800,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_visas": {
-    "CustomName": null,
+    "CustomName": "techprint(visasmarrsequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42820,7 +42820,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_exile": {
-    "CustomName": null,
+    "CustomName": "techprint(theexilesequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42840,7 +42840,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_canderous": {
-    "CustomName": null,
+    "CustomName": "techprint(canderousordosequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42860,7 +42860,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_carth": {
-    "CustomName": null,
+    "CustomName": "techprint(carthonasisequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42880,7 +42880,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_vao": {
-    "CustomName": null,
+    "CustomName": "techprint(missionvaosequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42900,7 +42900,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_bigZ": {
-    "CustomName": null,
+    "CustomName": "techprint(zaalbarsequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42920,7 +42920,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_handmaiden": {
-    "CustomName": null,
+    "CustomName": "techprint(briannasequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42940,7 +42940,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_goto": {
-    "CustomName": null,
+    "CustomName": "techprint(g0-t0sequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42960,7 +42960,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_jolee": {
-    "CustomName": null,
+    "CustomName": "techprint(joleebindosequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42980,7 +42980,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_bastila": {
-    "CustomName": null,
+    "CustomName": "techprint(bastilashansequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -43000,7 +43000,7 @@
     "KarmaType": null
   },
   "Techprint_guy762_ResearchKotOR_juhani": {
-    "CustomName": null,
+    "CustomName": "techprint(juhanisequipment)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,

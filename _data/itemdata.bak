@@ -15480,7 +15480,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Arcanist_Basic": {
-    "CustomName": null,
+    "CustomName": "arcanistsgrimoire",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15540,7 +15540,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Conjurer_Basic": {
-    "CustomName": null,
+    "CustomName": "conjurerscane",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15620,7 +15620,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_Archer_Basic": {
-    "CustomName": null,
+    "CustomName": "archersbow",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -15660,7 +15660,7 @@
     "KarmaType": null
   },
   "ARR_Weapon_DarkKnight_Basic": {
-    "CustomName": null,
+    "CustomName": "darkknightsclaymore",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -21080,7 +21080,7 @@
     "KarmaType": null
   },
   "Gun_MBNW_HellBurner": {
-    "CustomName": null,
+    "CustomName": "bnhellsburner",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -26940,7 +26940,7 @@
     "KarmaType": null
   },
   "guy762_MalakTunic": {
-    "CustomName": null,
+    "CustomName": "darthmalaksarmoredtunic",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -26960,7 +26960,7 @@
     "KarmaType": null
   },
   "guy762_MalakCape": {
-    "CustomName": null,
+    "CustomName": "darthmalaksarmoredcape",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27060,7 +27060,7 @@
     "KarmaType": null
   },
   "guy762_NihilusRobes": {
-    "CustomName": null,
+    "CustomName": "darthnihilusrobes",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27080,7 +27080,7 @@
     "KarmaType": null
   },
   "guy762_NihilusMask": {
-    "CustomName": null,
+    "CustomName": "darthnihilusmask",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27100,7 +27100,7 @@
     "KarmaType": null
   },
   "guy762_NihilusCloak": {
-    "CustomName": null,
+    "CustomName": "darthnihiluscloak",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29060,7 +29060,7 @@
     "KarmaType": null
   },
   "guy762_BastilaTunic": {
-    "CustomName": null,
+    "CustomName": "bastilastunic",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -29260,7 +29260,7 @@
     "KarmaType": null
   },
   "guy762_belt_calrissian": {
-    "CustomName": null,
+    "CustomName": "calrissiansutilitybelt",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -33600,7 +33600,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_malaksaber": {
-    "CustomName": null,
+    "CustomName": "darthmalakslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34380,7 +34380,7 @@
     "KarmaType": null
   },
   "guy762_hvypistol_cassus": {
-    "CustomName": null,
+    "CustomName": "cassusfettsheavypistol",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -35880,7 +35880,7 @@
     "KarmaType": null
   },
   "guy762_bpistol_bendak": {
-    "CustomName": null,
+    "CustomName": "bendakblaster",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -37120,7 +37120,7 @@
     "KarmaType": null
   },
   "guy762_vsword_bacca": {
-    "CustomName": null,
+    "CustomName": "baccasceremonialblade",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
