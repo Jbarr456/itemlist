@@ -33600,7 +33600,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_malaksaber": {
-    "CustomName": "darthmalakslightsaber1",
+    "CustomName": "darthmalakslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33620,7 +33620,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_nihilussaber": {
-    "CustomName": "darthnihilusslightsaber2",
+    "CustomName": "darthnihilusslightsaber",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35580,7 +35580,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_darksaber": {
-    "CustomName": null,
+    "CustomName": "darksaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -37820,7 +37820,7 @@
     "KarmaType": null
   },
   "Force_Darksaber": {
-    "CustomName": null,
+    "CustomName": "darksaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,

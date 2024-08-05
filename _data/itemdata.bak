@@ -34840,7 +34840,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_red": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34860,7 +34860,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_orange": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34880,7 +34880,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_yellow": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber3",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34900,7 +34900,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_green": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber4",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34920,7 +34920,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_blue": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber5",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34940,7 +34940,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_purple": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber6",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34960,7 +34960,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_crosssaber_white": {
-    "CustomName": null,
+    "CustomName": "crossguardlightsaber7",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -34980,7 +34980,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_red": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35000,7 +35000,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_orange": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35020,7 +35020,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_yellow": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber3",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35040,7 +35040,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_green": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber4",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35060,7 +35060,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_blue": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber5",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35080,7 +35080,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_purple": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber6",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35100,7 +35100,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_curvesaber_white": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber7",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35120,7 +35120,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_red": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35140,7 +35140,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_orange": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35160,7 +35160,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_yellow": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber3",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35180,7 +35180,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_green": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber4",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35200,7 +35200,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_blue": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber5",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35220,7 +35220,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_purple": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber6",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35240,7 +35240,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_dualsaber_white": {
-    "CustomName": null,
+    "CustomName": "double-bladedlightsaber7",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35280,7 +35280,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_red": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35300,7 +35300,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_orange": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35320,7 +35320,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_yellow": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber3",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35340,7 +35340,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_green": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber4",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35360,7 +35360,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_blue": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber5",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35380,7 +35380,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_purple": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber6",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35400,7 +35400,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_shortsaber_white": {
-    "CustomName": null,
+    "CustomName": "shortlightsaber7",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35440,7 +35440,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_red": {
-    "CustomName": null,
+    "CustomName": "lightsaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35460,7 +35460,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_orange": {
-    "CustomName": null,
+    "CustomName": "lightsaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35480,7 +35480,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_yellow": {
-    "CustomName": null,
+    "CustomName": "lightsaber3",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35500,7 +35500,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_green": {
-    "CustomName": null,
+    "CustomName": "lightsaber4",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35520,7 +35520,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_blue": {
-    "CustomName": null,
+    "CustomName": "lightsaber5",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35540,7 +35540,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_purple": {
-    "CustomName": null,
+    "CustomName": "lightsaber6",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35560,7 +35560,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_lightsaber_white": {
-    "CustomName": null,
+    "CustomName": "lightsaber7",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -35580,7 +35580,7 @@
     "KarmaType": null
   },
   "SWSaber_KotOR_darksaber": {
-    "CustomName": null,
+    "CustomName": "darksaber2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -37740,7 +37740,7 @@
     "KarmaType": null
   },
   "Force_Lightsaber_Custom": {
-    "CustomName": null,
+    "CustomName": "lightsaber8",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -37760,7 +37760,7 @@
     "KarmaType": null
   },
   "Force_Lightsaber_Curved": {
-    "CustomName": null,
+    "CustomName": "curvedlightsaber8",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -37820,7 +37820,7 @@
     "KarmaType": null
   },
   "Force_Darksaber": {
-    "CustomName": null,
+    "CustomName": "darksaber1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
