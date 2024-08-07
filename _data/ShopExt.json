@@ -863,7 +863,7 @@
       "name": "misogynist"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1967,7 +1967,7 @@
       "name": "deadshot"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2039,7 +2039,7 @@
       "name": "joyous"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,

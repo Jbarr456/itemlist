@@ -3890,7 +3890,7 @@
 	},
 	{
 		"abr": "goldencube",
-		"price": 2000,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GoldenCube"
 	},
@@ -4490,31 +4490,31 @@
 	},
 	{
 		"abr": "ancientbarrel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBarrel"
 	},
 	{
 		"abr": "ancientbed",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBed"
 	},
 	{
 		"abr": "ancientcontainer",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientContainer"
 	},
 	{
 		"abr": "ancientcrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientCrate"
 	},
 	{
 		"abr": "ancientdisplaybank",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientDisplayBank"
 	},
@@ -4526,7 +4526,7 @@
 	},
 	{
 		"abr": "ancientequipmentblocks",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientEquipmentBlocks"
 	},
@@ -4538,7 +4538,7 @@
 	},
 	{
 		"abr": "ancientgenerator",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGenerator"
 	},
@@ -4568,7 +4568,7 @@
 	},
 	{
 		"abr": "ancientlockerbank",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLockerBank"
 	},
@@ -4580,7 +4580,7 @@
 	},
 	{
 		"abr": "ancientmachine",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMachine"
 	},
@@ -4592,25 +4592,25 @@
 	},
 	{
 		"abr": "ancientmechdropbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechDropBeacon"
 	},
 	{
 		"abr": "ancientmechanoiddetritus",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechanoidShell"
 	},
 	{
 		"abr": "ancientmega-cannonbarrel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMegaCannonBarrel"
 	},
 	{
 		"abr": "ancientmega-cannonplatform",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMegaCannonTripod"
 	},
@@ -4622,19 +4622,19 @@
 	},
 	{
 		"abr": "ancientmilitarycrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMilitaryCrate"
 	},
 	{
 		"abr": "ancientnavbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientShipBeacon"
 	},
 	{
 		"abr": "ancientoperatingtable",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientOperatingTable"
 	},
@@ -4646,7 +4646,7 @@
 	},
 	{
 		"abr": "ancientpipes",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientPipes"
 	},
@@ -4658,7 +4658,7 @@
 	},
 	{
 		"abr": "ancientrazorwire",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRazorWire"
 	},
@@ -4670,13 +4670,13 @@
 	},
 	{
 		"abr": "ancientresurrectorscroll",
-		"price": 2833,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Force_AncientResurrectorScroll"
 	},
 	{
 		"abr": "ancientsecurityturret",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSecurityTurret"
 	},
@@ -4694,19 +4694,19 @@
 	},
 	{
 		"abr": "ancientspacejunk",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSpaceJunk"
 	},
 	{
 		"abr": "ancientspacercrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSpacerCrate"
 	},
 	{
 		"abr": "ancientstoragecylinder",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientStorageCylinder"
 	},
@@ -4718,13 +4718,13 @@
 	},
 	{
 		"abr": "ancientsystemrack",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSystemRack"
 	},
 	{
 		"abr": "ancienttanktrap",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientTankTrap"
 	},
@@ -14496,6 +14496,162 @@
 		"category": "Blasters",
 		"defname": "guy762_brifle_zersium"
 	},
+	{
+		"abr": "armblademodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_ArmBlade"
+	},
+	{
+		"abr": "armincinerator",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_Incinerator"
+	},
+	{
+		"abr": "armplatingmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_LocalArmour"
+	},
+	{
+		"abr": "armshotgun",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_Shotgun"
+	},
+	{
+		"abr": "armsmg",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_SMG"
+	},
+	{
+		"abr": "ballisticlensemodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_LocalArmour"
+	},
+	{
+		"abr": "bionicclawmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_BionicClaw"
+	},
+	{
+		"abr": "bionicfaceplate",
+		"price": 2358,
+		"category": "Bionic",
+		"defname": "LTS_FaceplateArachnid"
+	},
+	{
+		"abr": "deathgripmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_DeathGrip"
+	},
+	{
+		"abr": "digitigrademodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_Digitigrade"
+	},
+	{
+		"abr": "eyecolourmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_EyeColour"
+	},
+	{
+		"abr": "leapmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_Leap"
+	},
+	{
+		"abr": "legplatingmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_LocalArmour"
+	},
+	{
+		"abr": "monowirewhipmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_Monowire"
+	},
+	{
+		"abr": "nightvisionmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_NightVision"
+	},
+	{
+		"abr": "plasmaclawmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_PlasmaClaw"
+	},
+	{
+		"abr": "recoilsuppressionmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_RecoilSuppression"
+	},
+	{
+		"abr": "shouldermortar",
+		"price": 2025,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderMortar"
+	},
+	{
+		"abr": "shoulderrocketpod",
+		"price": 2025,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderRocketPod"
+	},
+	{
+		"abr": "sprintmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleLeg_Sprint"
+	},
+	{
+		"abr": "targetingmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_Targeting"
+	},
+	{
+		"abr": "techprint(modularultratechbionicweaponry)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_LTS_ModularBionicWeaponryUltra"
+	},
+	{
+		"abr": "telescopicsightmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleEye_Telescopic"
+	},
+	{
+		"abr": "vanguardaccelerator",
+		"price": 2358,
+		"category": "Bionic",
+		"defname": "LTS_Vanguard"
+	},
+	{
+		"abr": "vibro-module",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_VibroModule"
+	},
+	{
+		"abr": "voicelock",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_Voicelock"
+	}
 	],
-	"total": 2416
+	"total": 2443
 }

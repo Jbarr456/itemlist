@@ -3892,7 +3892,7 @@
       "abr": "goldencube",
       "category": "Misc",
       "defname": "GoldenCube",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "harbingerseed",
@@ -14501,7 +14501,169 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "armblademodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_ArmBlade",
+      "price": 2092
+    },
+    {
+      "abr": "armincinerator",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_Incinerator",
+      "price": 2092
+    },
+    {
+      "abr": "armplatingmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_LocalArmour",
+      "price": 2092
+    },
+    {
+      "abr": "armshotgun",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_Shotgun",
+      "price": 2092
+    },
+    {
+      "abr": "armsmg",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_SMG",
+      "price": 2092
+    },
+    {
+      "abr": "ballisticlensemodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleEye_LocalArmour",
+      "price": 2092
+    },
+    {
+      "abr": "bionicclawmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_BionicClaw",
+      "price": 2092
+    },
+    {
+      "abr": "bionicfaceplate",
+      "category": "Bionic",
+      "defname": "LTS_FaceplateArachnid",
+      "price": 2358
+    },
+    {
+      "abr": "deathgripmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_DeathGrip",
+      "price": 2092
+    },
+    {
+      "abr": "digitigrademodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleLeg_Digitigrade",
+      "price": 2092
+    },
+    {
+      "abr": "eyecolourmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleEye_EyeColour",
+      "price": 2092
+    },
+    {
+      "abr": "leapmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleLeg_Leap",
+      "price": 2092
+    },
+    {
+      "abr": "legplatingmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleLeg_LocalArmour",
+      "price": 2092
+    },
+    {
+      "abr": "monowirewhipmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_Monowire",
+      "price": 2092
+    },
+    {
+      "abr": "nightvisionmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleEye_NightVision",
+      "price": 2092
+    },
+    {
+      "abr": "plasmaclawmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_PlasmaClaw",
+      "price": 2092
+    },
+    {
+      "abr": "recoilsuppressionmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_RecoilSuppression",
+      "price": 2092
+    },
+    {
+      "abr": "shouldermortar",
+      "category": "Bionic",
+      "defname": "LTS_ShoulderMortar",
+      "price": 2025
+    },
+    {
+      "abr": "shoulderrocketpod",
+      "category": "Bionic",
+      "defname": "LTS_ShoulderRocketPod",
+      "price": 2025
+    },
+    {
+      "abr": "sprintmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleLeg_Sprint",
+      "price": 2092
+    },
+    {
+      "abr": "targetingmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleEye_Targeting",
+      "price": 2092
+    },
+    {
+      "abr": "techprint(modularultratechbionicweaponry)",
+      "category": "Techprints",
+      "defname": "Techprint_LTS_ModularBionicWeaponryUltra",
+      "price": 1667
+    },
+    {
+      "abr": "telescopicsightmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleEye_Telescopic",
+      "price": 2092
+    },
+    {
+      "abr": "vanguardaccelerator",
+      "category": "Bionic",
+      "defname": "LTS_Vanguard",
+      "price": 2358
+    },
+    {
+      "abr": "vibro-module",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_VibroModule",
+      "price": 2092
+    },
+    {
+      "abr": "voicelock",
+      "category": "Prosthetic",
+      "defname": "LTS_Voicelock",
+      "price": 342
+    },
+    {
+      "abr": "zeusknucklesmodule",
+      "category": "Modules",
+      "defname": "LTS_ModuleArm_ZeusKnuckles",
+      "price": 2092
     }
   ],
-  "total": 2417
+  "total": 2444
 }
