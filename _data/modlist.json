@@ -51,7 +51,7 @@
     "author": "Aelanna",
     "name": "A Rim Reborn - Core",
     "steamId": "2659227786",
-    "version": "0.4.8"
+    "version": "0.4.9"
   },
   {
     "author": "Aelanna",
@@ -180,6 +180,12 @@
     "version": "1.5"
   },
   {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "DragSelect",
     "steamId": null,
@@ -237,7 +243,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.10.0"
+    "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
   },
   {
     "author": "latta",
@@ -387,7 +393,7 @@
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "AKRI",

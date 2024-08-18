@@ -7316,7 +7316,7 @@
 	},
 	{
 		"abr": "equipmentassemblyfacility",
-		"price": 608,
+		"price": -10,
 		"category": "Production",
 		"defname": "GDTable"
 	},
@@ -13472,31 +13472,31 @@
 	},
 	{
 		"abr": "techprint(bastilashan'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_bastila"
 	},
 	{
 		"abr": "techprint(brianna'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_handmaiden"
 	},
 	{
 		"abr": "techprint(canderousordo'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_canderous"
 	},
 	{
 		"abr": "techprint(carthonasi'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_carth"
 	},
 	{
 		"abr": "techprint(czerkaequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_czerka"
 	},
@@ -13526,25 +13526,25 @@
 	},
 	{
 		"abr": "techprint(exchangeequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_exchange"
 	},
 	{
 		"abr": "techprint(g0-t0'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_goto"
 	},
 	{
 		"abr": "techprint(hk-47'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_hkequipment"
 	},
 	{
 		"abr": "techprint(jawaequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_jawa"
 	},
@@ -13556,13 +13556,13 @@
 	},
 	{
 		"abr": "techprint(joleebindo'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_jolee"
 	},
 	{
 		"abr": "techprint(juhani'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_juhani"
 	},
@@ -13586,13 +13586,13 @@
 	},
 	{
 		"abr": "techprint(malak'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_malak"
 	},
 	{
 		"abr": "techprint(mandalorianequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_mando"
 	},
@@ -13604,13 +13604,13 @@
 	},
 	{
 		"abr": "techprint(missionvao'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_vao"
 	},
 	{
 		"abr": "techprint(nihilus'equipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_nihilus"
 	},
@@ -13628,25 +13628,25 @@
 	},
 	{
 		"abr": "techprint(republicequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_republic"
 	},
 	{
 		"abr": "techprint(revan'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_revan"
 	},
 	{
 		"abr": "techprint(sion'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_sion"
 	},
 	{
 		"abr": "techprint(sithequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_sith"
 	},
@@ -13658,43 +13658,43 @@
 	},
 	{
 		"abr": "techprint(t3-m4'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_teethree"
 	},
 	{
 		"abr": "techprint(theexile'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_exile"
 	},
 	{
 		"abr": "techprint(tuskenraiderequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_tusken"
 	},
 	{
 		"abr": "techprint(uncraftableweapons)",
-		"price": 1667,
+		"price": 50,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_uncraftable"
 	},
 	{
 		"abr": "techprint(visasmarr'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_visas"
 	},
 	{
 		"abr": "techprint(wookieeequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_wookiee"
 	},
 	{
 		"abr": "techprint(zaalbar'sequipment)",
-		"price": 1667,
+		"price": 10,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_bigZ"
 	},
@@ -14336,13 +14336,13 @@
 	},
 	{
 		"abr": "xenodiscombobulator",
-		"price": 1667,
+		"price": 500,
 		"category": "Misc",
 		"defname": "BS_GeneDicombobulator"
 	},
 	{
 		"abr": "xenogenesserumlab",
-		"price": 692,
+		"price": -10,
 		"category": "Production",
 		"defname": "WVC_SerumCraftingTable"
 	},
@@ -14360,7 +14360,7 @@
 	},
 	{
 		"abr": "xeno-tree",
-		"price": 3667,
+		"price": -10,
 		"category": "Plants",
 		"defname": "WVC_Plant_TreeXenoSpawner"
 	},
@@ -14651,7 +14651,19 @@
 		"price": 342,
 		"category": "Prosthetic",
 		"defname": "LTS_Voicelock"
+	},
+	{
+		"abr": "cellularadapter",
+		"price": 1592,
+		"category": "Bionic",
+		"defname": "LTS_CellularAdapter"
+	},
+	{
+		"abr": "emergencyshield",
+		"price": 1258,
+		"category": "Bionic",
+		"defname": "LTS_EmergencyShield"
 	}
 	],
-	"total": 2443
+	"total": 2445
 }
