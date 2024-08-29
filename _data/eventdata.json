@@ -393,10 +393,10 @@
   },
   "mechanoidraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 400,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "infestation": {

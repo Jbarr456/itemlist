@@ -782,13 +782,13 @@
 	},
 	{
 		"abr": "milk",
-		"price": -10,
+		"price": 3,
 		"category": "Animal products",
 		"defname": "Milk"
 	},
 	{
 		"abr": "insectjelly",
-		"price": -10,
+		"price": 13,
 		"category": "Animal products",
 		"defname": "InsectJelly"
 	},
@@ -3848,7 +3848,7 @@
 	},
 	{
 		"abr": "electricinhibitor",
-		"price": 222,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ElectricInhibitor"
 	},
@@ -3866,7 +3866,7 @@
 	},
 	{
 		"abr": "frenzyinducer",
-		"price": 825,
+		"price": -10,
 		"category": "Misc",
 		"defname": "FrenzyInducer"
 	},
@@ -4136,13 +4136,13 @@
 	},
 	{
 		"abr": "abysstecharcfurnace",
-		"price": 2125,
+		"price": -10,
 		"category": "Production",
 		"defname": "Moyo2_ArcFurnace"
 	},
 	{
 		"abr": "abysstechcultivationtank",
-		"price": 1083,
+		"price": -10,
 		"category": "Production",
 		"defname": "Moyo_FishTank"
 	},
@@ -4154,13 +4154,13 @@
 	},
 	{
 		"abr": "abysstechfabricationmodule",
-		"price": 2000,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Moyo2_FabricationAddon"
 	},
 	{
 		"abr": "abysstechproductionbench",
-		"price": 925,
+		"price": -10,
 		"category": "Production",
 		"defname": "Moyo2_FabricationBench"
 	},
@@ -4292,19 +4292,19 @@
 	},
 	{
 		"abr": "aethericcooler",
-		"price": 128,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_AethericCooler"
 	},
 	{
 		"abr": "aethericcraftingtable",
-		"price": 408,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherCraftTable"
 	},
 	{
 		"abr": "aethericcraftingtable(linked)",
-		"price": 517,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherCraftTableLinked"
 	},
@@ -4322,13 +4322,13 @@
 	},
 	{
 		"abr": "aethericheater",
-		"price": 160,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_AethericHeater"
 	},
 	{
 		"abr": "aethericicecooler",
-		"price": 191,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_AethericIceCooler"
 	},
@@ -4340,7 +4340,7 @@
 	},
 	{
 		"abr": "aethericmachiningtable",
-		"price": 792,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherMachineTable"
 	},
@@ -4352,13 +4352,13 @@
 	},
 	{
 		"abr": "aethericpreptable",
-		"price": 342,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherPrepTable"
 	},
 	{
 		"abr": "aethericpreptable(linked)",
-		"price": 408,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherPrepTableLinked"
 	},
@@ -4388,19 +4388,19 @@
 	},
 	{
 		"abr": "aetherictailoringtable",
-		"price": 408,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherTailorTable"
 	},
 	{
 		"abr": "aetherictailoringtable(linked)",
-		"price": 517,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_AetherTailorTableLinked"
 	},
 	{
 		"abr": "aethericthermostat",
-		"price": 425,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_AethericThermostat"
 	},
@@ -4802,7 +4802,7 @@
 	},
 	{
 		"abr": "animalfeeder",
-		"price": 208,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageAnimalFeeder"
 	},
@@ -4892,7 +4892,7 @@
 	},
 	{
 		"abr": "aratechworkbench",
-		"price": 4167,
+		"price": -10,
 		"category": "Production",
 		"defname": "guy762_KotORWorkbench"
 	},
@@ -5036,7 +5036,7 @@
 	},
 	{
 		"abr": "artificialsun",
-		"price": 400,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_ArtificialSun"
 	},
@@ -5078,7 +5078,7 @@
 	},
 	{
 		"abr": "aurameat",
-		"price": 1,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_ARR_AuRaRaen"
 	},
@@ -5186,13 +5186,13 @@
 	},
 	{
 		"abr": "barrel",
-		"price": 105,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageBarrel"
 	},
 	{
 		"abr": "barrelpallet",
-		"price": 417,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageBarrelPallet"
 	},
@@ -5546,13 +5546,13 @@
 	},
 	{
 		"abr": "bonfire",
-		"price": 833,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_Bonfire"
 	},
 	{
 		"abr": "bookshelf",
-		"price": 275,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageBookshelf"
 	},
@@ -5720,13 +5720,13 @@
 	},
 	{
 		"abr": "cargocontainer",
-		"price": 3033,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageCargoContainer"
 	},
 	{
 		"abr": "cargocontainer",
-		"price": 425,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageCargoContainer"
 	},
@@ -5744,7 +5744,7 @@
 	},
 	{
 		"abr": "cask",
-		"price": 54,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageCask"
 	},
@@ -5780,7 +5780,7 @@
 	},
 	{
 		"abr": "chest",
-		"price": 152,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageWoodChest"
 	},
@@ -6146,7 +6146,7 @@
 	},
 	{
 		"abr": "crystalcolumn",
-		"price": 205,
+		"price": -10,
 		"category": "Misc",
 		"defname": "DarkColumnMod"
 	},
@@ -6386,7 +6386,7 @@
 	},
 	{
 		"abr": "crystallinestructurefoundry",
-		"price": 783,
+		"price": -10,
 		"category": "Production",
 		"defname": "YPTable"
 	},
@@ -7106,13 +7106,13 @@
 	},
 	{
 		"abr": "eldritchslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VME_EldritchSlab_Broad"
 	},
 	{
 		"abr": "eldritchslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VME_EldritchSlab_Medium"
 	},
@@ -7310,7 +7310,7 @@
 	},
 	{
 		"abr": "eorzeanseedstock",
-		"price": 170,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_SeedStock"
 	},
@@ -7340,13 +7340,13 @@
 	},
 	{
 		"abr": "esotericismslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VME_EsotericismSlab_Broad"
 	},
 	{
 		"abr": "esotericismslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VME_EsotericismSlab_Medium"
 	},
@@ -7598,7 +7598,7 @@
 	},
 	{
 		"abr": "fleshweaverobelisk",
-		"price": 925,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RH_RepairHub_Fleshweaver"
 	},
@@ -7634,13 +7634,13 @@
 	},
 	{
 		"abr": "foodbarrel",
-		"price": 54,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageFoodBarrel"
 	},
 	{
 		"abr": "foodshelf",
-		"price": 311,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelIndustrialShelf"
 	},
@@ -7844,19 +7844,19 @@
 	},
 	{
 		"abr": "frozencolumn",
-		"price": 808,
+		"price": -10,
 		"category": "Misc",
 		"defname": "IceColumnMod"
 	},
 	{
 		"abr": "fueltank",
-		"price": 241,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageFuelTank"
 	},
 	{
 		"abr": "fueledgunsmithstation",
-		"price": 500,
+		"price": -10,
 		"category": "Production",
 		"defname": "MW_GunsmithStationFueled"
 	},
@@ -8000,7 +8000,7 @@
 	},
 	{
 		"abr": "gladefloorlamp",
-		"price": 83,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_FloorLampGlade"
 	},
@@ -8012,7 +8012,7 @@
 	},
 	{
 		"abr": "glamourtable",
-		"price": 171,
+		"price": -10,
 		"category": "Production",
 		"defname": "ARR_GlamourTable"
 	},
@@ -8114,7 +8114,7 @@
 	},
 	{
 		"abr": "gunsmithstation",
-		"price": 583,
+		"price": -10,
 		"category": "Production",
 		"defname": "MW_GunsmithStation"
 	},
@@ -8168,7 +8168,7 @@
 	},
 	{
 		"abr": "haybale",
-		"price": 82,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageHayBale"
 	},
@@ -8528,13 +8528,13 @@
 	},
 	{
 		"abr": "imperialoutdoorlamp",
-		"price": 163,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GS_ImperialLamp"
 	},
 	{
 		"abr": "imperialthrone",
-		"price": 1692,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GS_Palp_Throne"
 	},
@@ -8546,13 +8546,13 @@
 	},
 	{
 		"abr": "industrialdumpster",
-		"price": 271,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageIndustrialContainer"
 	},
 	{
 		"abr": "industrialskip",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageSkip"
 	},
@@ -8750,7 +8750,7 @@
 	},
 	{
 		"abr": "kineticfieldmanipulator",
-		"price": 892,
+		"price": -10,
 		"category": "Production",
 		"defname": "TETable"
 	},
@@ -8936,91 +8936,91 @@
 	},
 	{
 		"abr": "largebundle",
-		"price": 205,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageLargeBundle"
 	},
 	{
 		"abr": "largecarpet",
-		"price": 467,
+		"price": -10,
 		"category": "Art",
 		"defname": "GS_Carpet_Star"
 	},
 	{
 		"abr": "largecarpet",
-		"price": 467,
+		"price": -10,
 		"category": "Art",
 		"defname": "GS_Carpet_cult"
 	},
 	{
 		"abr": "largecarpet",
-		"price": 467,
+		"price": -10,
 		"category": "Art",
 		"defname": "GS_Carpet_forge"
 	},
 	{
 		"abr": "largechest",
-		"price": 304,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeWoodChest"
 	},
 	{
 		"abr": "largecrate",
-		"price": 207,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageLargeCrate"
 	},
 	{
 		"abr": "largefishingtrap",
-		"price": 281,
+		"price": -10,
 		"category": "Production",
 		"defname": "VME_LargeFishingTrap"
 	},
 	{
 		"abr": "largelocker",
-		"price": 467,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeLocker"
 	},
 	{
 		"abr": "largemetalcrate",
-		"price": 1058,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeMetalCrate"
 	},
 	{
 		"abr": "largepallet",
-		"price": 137,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStoragePalletLarge"
 	},
 	{
 		"abr": "largespacercontainer",
-		"price": 1275,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeSpacerContainer"
 	},
 	{
 		"abr": "largestonepile",
-		"price": 617,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeStonePile"
 	},
 	{
 		"abr": "largewoodcrate",
-		"price": 500,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeWoodCrate"
 	},
 	{
 		"abr": "largewoodpile",
-		"price": 367,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLargeWoodPile"
 	},
 	{
 		"abr": "lasersculptingtable",
-		"price": 850,
+		"price": -10,
 		"category": "Production",
 		"defname": "LaserTableSculpting"
 	},
@@ -9062,7 +9062,7 @@
 	},
 	{
 		"abr": "lightcolumn",
-		"price": 173,
+		"price": -10,
 		"category": "Misc",
 		"defname": "LightColumnMod"
 	},
@@ -9092,7 +9092,7 @@
 	},
 	{
 		"abr": "lightninggenerator",
-		"price": 442,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_LightningGenerator"
 	},
@@ -9182,7 +9182,7 @@
 	},
 	{
 		"abr": "locker",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageLocker"
 	},
@@ -9254,7 +9254,7 @@
 	},
 	{
 		"abr": "magneticforge",
-		"price": 1058,
+		"price": -10,
 		"category": "Production",
 		"defname": "JITable"
 	},
@@ -9416,7 +9416,7 @@
 	},
 	{
 		"abr": "meathook",
-		"price": 173,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageMeatHook"
 	},
@@ -9464,7 +9464,7 @@
 	},
 	{
 		"abr": "mechframefabricationnexus",
-		"price": 1942,
+		"price": -10,
 		"category": "Misc",
 		"defname": "XFMParmor_FabricationCentralSystem"
 	},
@@ -9518,19 +9518,19 @@
 	},
 	{
 		"abr": "medicinecabinet",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageMedicineCabinet"
 	},
 	{
 		"abr": "mediumcrate",
-		"price": 72,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageMediumCrate"
 	},
 	{
 		"abr": "mediumfishingtrap",
-		"price": 206,
+		"price": -10,
 		"category": "Production",
 		"defname": "VME_MediumFishingTrap"
 	},
@@ -9602,13 +9602,13 @@
 	},
 	{
 		"abr": "metalcrate",
-		"price": 264,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageMetalCrate"
 	},
 	{
 		"abr": "metalcrate",
-		"price": 70,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageMetalCrate"
 	},
@@ -10004,13 +10004,13 @@
 	},
 	{
 		"abr": "nanoassembler",
-		"price": 5308,
+		"price": -10,
 		"category": "Production",
 		"defname": "EccentricNanoassembler"
 	},
 	{
 		"abr": "nanofabricator",
-		"price": 3325,
+		"price": -10,
 		"category": "Production",
 		"defname": "EccentricNanofabricator"
 	},
@@ -10202,7 +10202,7 @@
 	},
 	{
 		"abr": "orbitaltradecolumn",
-		"price": 375,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OrbitalTradeColumnMod"
 	},
@@ -10250,7 +10250,7 @@
 	},
 	{
 		"abr": "pazaaktable",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KOTOR_PazaakTable"
 	},
@@ -10352,7 +10352,7 @@
 	},
 	{
 		"abr": "plasmacondenser",
-		"price": 1333,
+		"price": -10,
 		"category": "Production",
 		"defname": "KOTOR_PlasmaAmmoBank"
 	},
@@ -10400,7 +10400,7 @@
 	},
 	{
 		"abr": "pot",
-		"price": 54,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageStonePot"
 	},
@@ -10502,7 +10502,7 @@
 	},
 	{
 		"abr": "prefixreforger",
-		"price": 1350,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "EquipmentPrefix_Altar"
 	},
@@ -12350,7 +12350,7 @@
 	},
 	{
 		"abr": "rhydoniumdispenser",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KOTOR_RhydoniumHopper_dispenser"
 	},
@@ -12362,7 +12362,7 @@
 	},
 	{
 		"abr": "rhydoniuminsert",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KOTOR_RhydoniumHopper_insert"
 	},
@@ -12380,7 +12380,7 @@
 	},
 	{
 		"abr": "riverafloorlamp",
-		"price": 83,
+		"price": -10,
 		"category": "A Rim Reborn",
 		"defname": "ARR_FloorLampRiviera"
 	},
@@ -12416,7 +12416,7 @@
 	},
 	{
 		"abr": "sack",
-		"price": 52,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageSack"
 	},
@@ -12536,7 +12536,7 @@
 	},
 	{
 		"abr": "shieldrecharger",
-		"price": 6000,
+		"price": -10,
 		"category": "Production",
 		"defname": "KOTOR_ShieldBank"
 	},
@@ -12554,13 +12554,13 @@
 	},
 	{
 		"abr": "shintaoslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VME_TaoistSlab_Broad"
 	},
 	{
 		"abr": "shintaoslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VME_TaoistSlab_Medium"
 	},
@@ -12986,19 +12986,19 @@
 	},
 	{
 		"abr": "smallcrate",
-		"price": 54,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStorageWoodenCrate"
 	},
 	{
 		"abr": "smallfishingtrap",
-		"price": 131,
+		"price": -10,
 		"category": "Production",
 		"defname": "VME_SmallFishingTrap"
 	},
 	{
 		"abr": "smallpallet",
-		"price": 35,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BasicStoragePalletSmall"
 	},
@@ -13136,19 +13136,19 @@
 	},
 	{
 		"abr": "spacercontainer",
-		"price": 800,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageSpacerContainer"
 	},
 	{
 		"abr": "spacercontainerstack",
-		"price": 3950,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageSpacerContainerStack"
 	},
 	{
 		"abr": "spacerlocker",
-		"price": 2700,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageSpacerLocker"
 	},
@@ -13196,43 +13196,43 @@
 	},
 	{
 		"abr": "sraf:canary",
-		"price": 20258,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRAF"
 	},
 	{
 		"abr": "sraf:tek-7",
-		"price": 31292,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRAFTek"
 	},
 	{
 		"abr": "srtsmk.i:skip",
-		"price": 9150,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSSkip"
 	},
 	{
 		"abr": "srtsmk.ii:albatross",
-		"price": 27875,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkII"
 	},
 	{
 		"abr": "srtsmk.iii:phoenix",
-		"price": 42792,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIII"
 	},
 	{
 		"abr": "srtsmk.iiip:pelican",
-		"price": 50267,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIIIp"
 	},
 	{
 		"abr": "srtsmk.iv:genesis",
-		"price": 198617,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIV"
 	},
@@ -13286,7 +13286,7 @@
 	},
 	{
 		"abr": "starshipfuelrefinery",
-		"price": 7192,
+		"price": -10,
 		"category": "Production",
 		"defname": "KOTOR_FuelRefinery"
 	},
@@ -13304,7 +13304,7 @@
 	},
 	{
 		"abr": "stonepile",
-		"price": 153,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageStonePile"
 	},
@@ -13388,13 +13388,13 @@
 	},
 	{
 		"abr": "suncolumn",
-		"price": 700,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SunColumnMod"
 	},
 	{
 		"abr": "superpod",
-		"price": 6958,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSSuperpod"
 	},
@@ -13442,7 +13442,7 @@
 	},
 	{
 		"abr": "tanningrack",
-		"price": 154,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageTanningRack"
 	},
@@ -13676,7 +13676,7 @@
 	},
 	{
 		"abr": "techprint(uncraftableweapons)",
-		"price": 50,
+		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_guy762_ResearchKotOR_uncraftable"
 	},
@@ -13766,7 +13766,7 @@
 	},
 	{
 		"abr": "tibannadispenser",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KOTOR_TibannaHopper_dispenser"
 	},
@@ -13778,7 +13778,7 @@
 	},
 	{
 		"abr": "tibannainsert",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KOTOR_TibannaHopper_insert"
 	},
@@ -13856,7 +13856,7 @@
 	},
 	{
 		"abr": "typewritertable",
-		"price": 342,
+		"price": -10,
 		"category": "Production",
 		"defname": "VBE_TypewritersTable"
 	},
@@ -14258,7 +14258,7 @@
 	},
 	{
 		"abr": "weaponrack",
-		"price": 172,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageWeaponRack"
 	},
@@ -14294,7 +14294,7 @@
 	},
 	{
 		"abr": "wickerman",
-		"price": 178,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_WickerMan"
 	},
@@ -14306,19 +14306,19 @@
 	},
 	{
 		"abr": "winerack",
-		"price": 72,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageWineRack"
 	},
 	{
 		"abr": "woodcrate",
-		"price": 126,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageWoodCrate"
 	},
 	{
 		"abr": "woodpile",
-		"price": 123,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ReelStorageWoodPile"
 	},
@@ -14330,7 +14330,7 @@
 	},
 	{
 		"abr": "writerstable",
-		"price": 252,
+		"price": -10,
 		"category": "Production",
 		"defname": "VBE_WritersTable"
 	},
@@ -14663,7 +14663,37 @@
 		"price": 1258,
 		"category": "Bionic",
 		"defname": "LTS_EmergencyShield"
+	},
+	{
+		"abr": "zeusknucklesmodule",
+		"price": 2092,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_ZeusKnuckles"
+	},
+	{
+		"abr": "activecamouflage",
+		"price": 2258,
+		"category": "Bionic",
+		"defname": "LTS_StealthSystem"
+	},
+	{
+		"abr": "memorydatabank",
+		"price": 1892,
+		"category": "Bionic",
+		"defname": "LTS_MemoryDatabank"
+	},
+	{
+		"abr": "psychicreaper",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "LTS_PsychicReaper"
+	},
+	{
+		"abr": "voidlink",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "LTS_Voidlink"
 	}
 	],
-	"total": 2445
+	"total": 2450
 }
