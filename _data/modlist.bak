@@ -156,12 +156,6 @@
     "version": null
   },
   {
-    "author": "HRG164hjo",
-    "name": "Fuel Pipenet for SOS2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Leoltron",
     "name": "Gene Bank Indicators",
     "steamId": null,
@@ -378,6 +372,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "TheSimpleDude42",
+    "name": "Tools O' Plenty",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
@@ -572,6 +572,12 @@
   {
     "author": "RedMattis",
     "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HRG164hjo",
+    "name": "Fuel Pipenet for SOS2",
     "steamId": null,
     "version": null
   },

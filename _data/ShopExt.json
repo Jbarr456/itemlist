@@ -6084,7 +6084,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "sentient1",
       "price": 2917
     },
@@ -6106,7 +6106,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
-      "enabled": true,
+      "enabled": false,
       "name": "sentient2",
       "price": 2917
     },
@@ -6140,7 +6140,7 @@
       },
       "description": "This is a creature largely composed of highly ruggedized machinery.",
       "defName": "BS_UrbMech",
-      "enabled": true,
+      "enabled": false,
       "name": "mech",
       "price": 4167
     },
@@ -6179,7 +6179,7 @@
       "description": "A new take on early attempts at mechanical lifeforms. These androids have a fair number of built-in programs for basic survival situations, but have very limited ability to improve beyond that point.\n\nThey are fairly sturdy for a rolling television, but tend to be disabled easily when injured.",
       "defName": "BS_TVAndroid",
       "enabled": true,
-      "name": "ad-bot1",
+      "name": "ad-botfactory",
       "price": 2500
     },
     {
@@ -6217,7 +6217,7 @@
       "description": "A new take on early attempts at mechanical lifeforms. These androids have a fair number of built-in programs for basic survival situations, but have very limited ability to improve beyond that point.\n\nThey are fairly sturdy for a rolling television, but tend to be disabled easily when injured.",
       "defName": "BS_TVAndroid_Sapient",
       "enabled": true,
-      "name": "ad-bot2",
+      "name": "ad-botassembler",
       "price": 2500
     },
     {
@@ -6250,8 +6250,8 @@
       },
       "description": "A mechanical lifeform with a design born from early attempts at developing AI Persona by emulating a human mind. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor.",
       "defName": "BS_CommandoBot",
-      "enabled": true,
-      "name": "steelenforcer1",
+      "enabled": false,
+      "name": "automatedenforcer",
       "price": 4167
     },
     {
@@ -6319,7 +6319,7 @@
       "description": "A mechanical lifeform with a design born from early attempts at developing AI Persona by emulating a human mind. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor.",
       "defName": "BS_CommandoBotPersona",
       "enabled": true,
-      "name": "steelenforcer2",
+      "name": "steelenforcer",
       "price": 4167
     },
     {

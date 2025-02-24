@@ -372,6 +372,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "TheSimpleDude42",
+    "name": "Tools O' Plenty",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
@@ -570,6 +576,12 @@
     "version": null
   },
   {
+    "author": "HRG164hjo",
+    "name": "Fuel Pipenet for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "LTS",
     "name": "Integrated Implants",
     "steamId": null,
@@ -592,12 +604,6 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.5.0"
-  },
-  {
-    "author": "HRG164hjo",
-    "name": "Fuel Pipenet for SOS2",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "SirRandoo",
