@@ -6084,8 +6084,8 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
-      "name": "sentient1",
+      "enabled": true,
+      "name": "insector",
       "price": 2917
     },
     {
@@ -6107,7 +6107,7 @@
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
       "enabled": false,
-      "name": "sentient2",
+      "name": "broken",
       "price": 2917
     },
     {
@@ -6251,7 +6251,7 @@
       "description": "A mechanical lifeform with a design born from early attempts at developing AI Persona by emulating a human mind. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor.",
       "defName": "BS_CommandoBot",
       "enabled": false,
-      "name": "automatedenforcer",
+      "name": "automateendforcerr",
       "price": 4167
     },
     {
