@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 5000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 8000,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -106,6 +106,16 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -121,8 +131,18 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "meteor",
+		"price": 150,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -147,7 +167,7 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 300,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -202,7 +222,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 200,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -246,6 +266,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "disease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "reviveanypawn",
 		"price": 1200,
 		"karmatype": "Good"
@@ -267,12 +292,12 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "item",
-		"price": 1,
+		"abr": "prisoner",
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -284,6 +309,11 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
@@ -328,11 +358,6 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 84
 }
