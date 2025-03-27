@@ -369,10 +369,10 @@
   },
   "dropraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "GlobalCooldown": 300,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "sapperraid": {
