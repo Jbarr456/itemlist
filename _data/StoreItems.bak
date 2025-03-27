@@ -754,7 +754,7 @@
       "abr": "thrumbohorn",
       "category": "Misc",
       "defname": "ThrumboHorn",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "elephanttusk",
@@ -2308,7 +2308,7 @@
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "shiplandingbeacon",
@@ -3910,7 +3910,7 @@
       "abr": "psyring",
       "category": "Utility",
       "defname": "VPE_Psyring",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "eltexdagger",
@@ -4960,7 +4960,7 @@
       "abr": "forcefieldgenerator",
       "category": "Security",
       "defname": "CMCShieldGenerator",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "forcehatredholocron",
@@ -5920,7 +5920,7 @@
       "abr": "mechanoideffigy",
       "category": "Security",
       "defname": "VME_MechanoidEffigy",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "medi-arm",
@@ -8506,7 +8506,7 @@
       "abr": "torchlamp",
       "category": "Misc",
       "defname": "TorchLamp",
-      "price": 41
+      "price": -10
     },
     {
       "abr": "walltorchlamp",
@@ -8602,7 +8602,7 @@
       "abr": "chemfuelpoweredgenerator",
       "category": "Misc",
       "defname": "ChemfuelPoweredGenerator",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "windturbine",
@@ -8908,7 +8908,7 @@
       "abr": "bioferritegenerator",
       "category": "Misc",
       "defname": "BioferriteGenerator",
-      "price": 1233
+      "price": -10
     },
     {
       "abr": "zp-reactorgroup",
