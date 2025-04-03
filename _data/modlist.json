@@ -36,6 +36,12 @@
     "version": "1.1.1"
   },
   {
+    "author": "SeoHyeon",
+    "name": "Auto Translation",
+    "steamId": "3278005460",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "灵能罐头",
     "name": "CeleTech Arsenal MKIII",
     "steamId": "3446237098",
@@ -84,16 +90,16 @@
     "version": "1.0.0"
   },
   {
-    "author": "Slime-Senpai",
-    "name": "EndlessGrowth",
-    "steamId": "2894401734",
-    "version": "1.5.2.0"
-  },
-  {
     "author": "Erin",
     "name": "Erin's Final Fantasy Animals",
     "steamId": "2877589761",
     "version": "1.0.8865.27182"
+  },
+  {
+    "author": "Farxmai2",
+    "name": "Gene Banks Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "m00nl1ght",
@@ -216,12 +222,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sovereign and Visandar",
-    "name": "Seraphim Xenotype",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ray1203",
     "name": "SimpleCameraSetting",
     "steamId": "3232415388",
@@ -303,7 +303,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.63"
+    "version": "1.5.68"
   },
   {
     "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
@@ -404,6 +404,12 @@
   {
     "author": "Reel",
     "name": "Reel's Expanded Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign and Visandar",
+    "name": "Seraphim Xenotype",
     "steamId": null,
     "version": null
   },

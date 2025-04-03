@@ -418,7 +418,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
-      "removePrice": 400,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
@@ -440,7 +440,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
-      "removePrice": 400,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
@@ -462,7 +462,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
-      "removePrice": 400,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
@@ -2116,7 +2116,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
@@ -2138,7 +2138,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
@@ -2160,29 +2160,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
-      "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy has a very strong connection with the Force. he is extremely sensitive to psychic phenomena.",
       "stats": [
@@ -2208,7 +2186,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has a connection with the Force. A metaphysical, spiritual, binding, and ubiquitous power that held enormous importance for both the Jedi and Sith monastic orders.",
       "stats": [
@@ -2234,7 +2212,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy has a weaker connection to the Force compared to other force sensitives. he isn't as affected by psychic phenomena.",
       "stats": [
@@ -2260,7 +2238,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has a very strong affinity with the light side of the Force.",
       "stats": [
@@ -2286,7 +2264,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a strong affinity with the light side of the Force.",
       "stats": [
@@ -2312,7 +2290,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy has a weak affinity with the light side of the Force.",
       "stats": [
@@ -2338,7 +2316,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has a very strong affinity with the dark side of the Force.",
       "stats": [
@@ -2364,7 +2342,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a strong affinity with the dark side of the Force.",
       "stats": [
@@ -2390,7 +2368,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 400,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy has a weak affinity with the dark side of the Force.",
       "stats": [
@@ -2411,6 +2389,28 @@
       },
       "defName": "D_ForceAffinity",
       "name": "minordarksideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
     }
   ],
   "races": [
