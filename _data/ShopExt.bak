@@ -3931,7 +3931,7 @@
       "name": "brokenmemory(forgotten)"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 200,

@@ -3686,13 +3686,13 @@
           "x125% global learning factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[MIS] - Arknights",
         "karmaTypeForAdding": null
       },
       "defName": "AK_Trait_Agent_Kal",
-      "name": "omniscient"
+      "name": "omniscient1"
     },
     {
       "canAdd": true,
@@ -3931,7 +3931,7 @@
       "name": "brokenmemory(forgotten)"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 200,
@@ -7970,13 +7970,13 @@
           "+140% medical surgery success chance"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[MIS] - Arknights",
         "karmaTypeForAdding": null
       },
       "defName": "AK_Trait_KaltsitSecond",
-      "name": "omniscient"
+      "name": "omniscient2"
     },
     {
       "canAdd": true,

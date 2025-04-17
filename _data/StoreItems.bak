@@ -4297,12 +4297,6 @@
       "price": 176
     },
     {
-      "abr": "explosivebelt",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_ExplosiveBelt",
-      "price": -10
-    },
-    {
       "abr": "rangedshieldbelt",
       "category": "Utility",
       "defname": "VAEA_Apparel_RangedShieldBelt",
@@ -5017,7 +5011,7 @@
       "price": 1008
     },
     {
-      "abr": "korossaexosuit\"brasscrown\"",
+      "abr": "korossaexosuitbrasscrown",
       "category": "Outer",
       "defname": "Korossa_Exosuit",
       "price": 1992
@@ -9583,73 +9577,73 @@
       "price": 8
     },
     {
-      "abr": "rc-17\"warden\"",
+      "abr": "rc-17warden",
       "category": "Ranged weapons",
       "defname": "LessLethalRC17Warden",
       "price": 392
     },
     {
-      "abr": "rc-17\"warden\"(midnight)",
+      "abr": "rc-17warden(midnight)",
       "category": "Ranged weapons",
       "defname": "LessLethalRC17WardenMidnight",
       "price": 392
     },
     {
-      "abr": "rc-33\"sunshine\"",
+      "abr": "rc-33sunshine",
       "category": "Ranged weapons",
       "defname": "LessLethalRC33Sunshine",
       "price": 301
     },
     {
-      "abr": "rc-33\"sunshine\"(midnight)",
+      "abr": "rc-33sunshine(midnight)",
       "category": "Ranged weapons",
       "defname": "LessLethalRC33SunshineMidnight",
       "price": 301
     },
     {
-      "abr": "rc-120\"daeodon\"",
+      "abr": "rc-120daeodon",
       "category": "Ranged weapons",
       "defname": "RC120Daeodon",
       "price": 1067
     },
     {
-      "abr": "rc-120\"daeodon\"(midnight)",
+      "abr": "rc-120daeodon(midnight)",
       "category": "Ranged weapons",
       "defname": "RC120DaeodonMidnight",
       "price": 1067
     },
     {
-      "abr": "rc-43\"pacifist\"",
+      "abr": "rc-43pacifist",
       "category": "Ranged weapons",
       "defname": "LessLethalRC43Pacifist",
       "price": 175
     },
     {
-      "abr": "rc-43\"pacifist\"(midnight)",
+      "abr": "rc-43pacifist(midnight)",
       "category": "Ranged weapons",
       "defname": "LessLethalRC43PacifistMidnight",
       "price": 175
     },
     {
-      "abr": "rc-5\"flurry\"",
+      "abr": "rc-5flurry",
       "category": "Ranged weapons",
       "defname": "LessLethalRC5Flurry",
       "price": 282
     },
     {
-      "abr": "rc-5\"flurry\"(midnight)",
+      "abr": "rc-5flurry(midnight)",
       "category": "Ranged weapons",
       "defname": "LessLethalRC5FlurryMidnight",
       "price": 282
     },
     {
-      "abr": "rc-60\"hippo\"",
+      "abr": "rc-60hippo",
       "category": "Ranged weapons",
       "defname": "RC60Hippo",
       "price": 817
     },
     {
-      "abr": "rc-60\"hippo\"(midnight)",
+      "abr": "rc-60hippo(midnight)",
       "category": "Ranged weapons",
       "defname": "RC60HippoMidnight",
       "price": 817
@@ -12688,8 +12682,8 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 2115
+  "total": 2114
 }
