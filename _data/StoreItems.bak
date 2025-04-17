@@ -2912,43 +2912,43 @@
     },
     {
       "abr": "mechlink",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "Mechlink",
       "price": 833
     },
     {
       "abr": "controlsublink(standard)",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "ControlSublink",
       "price": 2000
     },
     {
       "abr": "controlsublink(high)",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "ControlSublinkHigh",
       "price": 2000
     },
     {
       "abr": "remoterepairer",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "RemoteRepairer",
       "price": 2000
     },
     {
       "abr": "mechgestationprocessor",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "MechFormfeeder",
       "price": 2000
     },
     {
       "abr": "remoteshielder",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "RemoteShielder",
       "price": 2000
     },
     {
       "abr": "repairprobe",
-      "category": "Mech",
+      "category": "Mechtech",
       "defname": "RepairProbe",
       "price": 2000
     },
@@ -4550,13 +4550,13 @@
     },
     {
       "abr": "operatorrecruitmentstation",
-      "category": "Ark of Tomorrow",
+      "category": "明日方舟建筑",
       "defname": "AK_Building_RecruitConsole",
       "price": -10
     },
     {
       "abr": "recruitticket",
-      "category": "Miscellaneous items",
+      "category": "杂项物品",
       "defname": "AK_Item_RecruitTicket",
       "price": 10000
     },
@@ -4880,13 +4880,13 @@
     },
     {
       "abr": "tandemwarheadrocket",
-      "category": "In the interest of the shooting",
+      "category": "Korossa Ammunition",
       "defname": "PF_rocket",
       "price": 80
     },
     {
       "abr": "smallanti-tankguidedmissile",
-      "category": "In the interest of the shooting",
+      "category": "Korossa Ammunition",
       "defname": "DR_rocket",
       "price": 80
     },
@@ -7382,13 +7382,13 @@
     },
     {
       "abr": "agreementcore",
-      "category": "Ark of Tomorrow",
+      "category": "明日方舟建筑",
       "defname": "AK_Building_RecruitTower",
       "price": -10
     },
     {
       "abr": "agreementsub-tower",
-      "category": "Ark of Tomorrow",
+      "category": "明日方舟建筑",
       "defname": "AK_Building_SubclassTower",
       "price": -10
     },
@@ -11408,7 +11408,7 @@
     },
     {
       "abr": "5x50mmcaseless(sabot)",
-      "category": "5x50mm houseless",
+      "category": "5x50mm Caseless",
       "defname": "Ammo_5x50mmCaseless_Sabot",
       "price": 1
     },
@@ -12422,25 +12422,25 @@
     },
     {
       "abr": "23x75mmrshell(buck)",
-      "category": "23x75mmr",
+      "category": "23x75mmR",
       "defname": "Ammo_23x75mmR_Buck",
       "price": 1
     },
     {
       "abr": "23x75mmrshell(slug)",
-      "category": "23x75mmr",
+      "category": "23x75mmR",
       "defname": "Ammo_23x75mmR_Slug",
       "price": 1
     },
     {
       "abr": "23x75mmrshell(bean)",
-      "category": "23x75mmr",
+      "category": "23x75mmR",
       "defname": "Ammo_23x75mmR_Beanbag",
       "price": 1
     },
     {
       "abr": "23x75mmrshell(emp)",
-      "category": "23x75mmr",
+      "category": "23x75mmR",
       "defname": "Ammo_23x75mmR_ElectroSlug",
       "price": 4
     },

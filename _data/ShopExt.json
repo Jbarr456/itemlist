@@ -11541,7 +11541,7 @@
       "name": "sirenseamonster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 200,
@@ -19214,7 +19214,7 @@
   "races": [
     {
       "data": {
-        "customName": false,
+        "customName": true,
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
@@ -19233,8 +19233,8 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
-      "name": "human",
+      "enabled": false,
+      "name": "ghoul",
       "price": 2917
     },
     {
@@ -19544,7 +19544,7 @@
       "description": "A genetically engineered human dispatched by the Federal Tax Bureau to capture tax evaders who have fled to rimworld.\nI assure you that they love firearms more than anyone in the rimworld.",
       "defName": "Korossa",
       "enabled": true,
-      "name": "taxman",
+      "name": "korossa",
       "price": 3333
     },
     {

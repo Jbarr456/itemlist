@@ -3686,13 +3686,13 @@
           "x125% global learning factor"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[MIS] - Arknights",
         "karmaTypeForAdding": null
       },
       "defName": "AK_Trait_Agent_Kal",
-      "name": "omniscient"
+      "name": "omniscient1"
     },
     {
       "canAdd": true,
@@ -7970,13 +7970,13 @@
           "+140% medical surgery success chance"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[MIS] - Arknights",
         "karmaTypeForAdding": null
       },
       "defName": "AK_Trait_KaltsitSecond",
-      "name": "omniscient"
+      "name": "omniscient2"
     },
     {
       "canAdd": true,
@@ -11541,7 +11541,7 @@
       "name": "sirenseamonster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 200,
@@ -19214,7 +19214,7 @@
   "races": [
     {
       "data": {
-        "customName": false,
+        "customName": true,
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
@@ -19233,8 +19233,8 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
-      "name": "human",
+      "enabled": false,
+      "name": "ghoul",
       "price": 2917
     },
     {
